@@ -21,6 +21,9 @@ a{
     font-size: 16px;
     color: aquamarine;
 }
+#camp{
+    width: 100%;
+}
 #phone {
     display: block;
     margin: 40px auto;
